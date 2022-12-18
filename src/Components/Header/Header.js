@@ -8,7 +8,3 @@ export default function Header(props){
     </li>
   )
 }
-
-Header.propTypes ={
-  texto:
-}
